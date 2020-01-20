@@ -2595,6 +2595,9 @@ h6 {
     display: none; } }
 .about-area .primary-btn {
   margin-top: 40px; }
+ img {
+    border-radius: 10.10%;
+  }
 
 /* End About Area css
 ============================================================================================ */
